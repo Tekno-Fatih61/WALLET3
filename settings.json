@@ -1,0 +1,15 @@
+{
+    "blockmaxsize": "375000",
+    "blockmintxfee": "0.004",
+    "lang": "en",
+    "onion": "",
+    "onion-prev": "127.0.0.1:9050",
+    "prune": "1",
+    "prune-prev": "1",
+    "server": true,
+    "upnp": true,
+    "wallet": [
+        "ANTPOOL2",
+        "lara-4"
+    ]
+}
